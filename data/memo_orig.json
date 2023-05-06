@@ -1,0 +1,9 @@
+{
+    "android": {
+        "link": "https://meta.chirpmailapp.com/p/MailBus-release-official_v3.0.4_Build990.apk",
+        "version": "3.0.4"
+    },
+    "ios": {
+        "version": "3.0.2"
+    }
+}
