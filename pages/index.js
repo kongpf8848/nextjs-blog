@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>一个有理想的Android、Web开发工程师</p>
+        <p>一个有理想的Android、Flutter开发工程师</p>
         <p>
           这是我的个人网站 - 想了解更多请访问我的{' '}
           <Link href="https://github.com/kongpf8848" target="_blank">GitHub</Link>
